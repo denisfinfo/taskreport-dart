@@ -8,10 +8,10 @@
 ## 📝 [A FAZER]
 
 
+
 ## ⏳ [EM ANDAMENTO]
 
-- [/] Realizar os pushes finais ('git push') para o GitHub
-- [/] Submeter os links obrigatórios no AVA da Semana 07
+
 
 ## ✔ [CONCLUÍDO]
 
@@ -25,3 +25,5 @@
 - [x] Gravar vídeo demonstrativo de até 5 minutos utilizando o Microsoft Clipchamp
 - [x] Gerar link público do vídeo no Google Drive ou YouTube (Não Listado)
 - [x] Atualizar o link do vídeo no arquivo 'README.md'
+- [x] Realizar os pushes finais ('git push') para o GitHub
+- [x] Submeter os links obrigatórios no AVA da Semana 07
